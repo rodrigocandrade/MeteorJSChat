@@ -1,7 +1,8 @@
-<b><h1>MeteorJS Chat</h1></b><br>
+<b>MeteorJS Chat</b>
+
 Um simples serviço de chat utilizando MeteorJS.
 
-#Todo:
+<b>Todo:</b>
 - Login atraves do Twitter, Github e FB.
 - Possibilidade de edição de mensagens.
 - Melhorar Layout.
