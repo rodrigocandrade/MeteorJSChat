@@ -1,0 +1,13 @@
+<template name="chatMensagens">
+  <div class="row">
+  <div class="col-lg-1 mensagemHist">
+        {{#each mensagensChat}}
+            <pre><b>{{userName}}</b>: {{now}}<br>{{message}}</pre>
+        {{/each}}
+
+      </div>
+    <div class="col-lg-1 mensagemBot">
+      {{> addMessage}}
+    </div>
+    </div>
+</template>

@@ -1,0 +1,17 @@
+
+.mensagemHist{
+  float: none;
+  margin: 0 auto;
+  border: 1px solid;
+  padding-top:5px;
+  overflow-x:auto;
+  overflow-y: auto;
+  height:400px;
+  width:600px;
+}
+
+.mensagemBot{
+  float: none;
+  margin: 0 auto;
+  padding:2px;height:50px;width:600px;
+}
