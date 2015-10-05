@@ -1,4 +1,4 @@
-#<b>MeteorJS Chat</b>
+<b><h1>MeteorJS Chat</h1></b><br>
 Um simples serviço de chat utilizando MeteorJS.
 
 #Todo:
