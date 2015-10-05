@@ -1,6 +1,6 @@
 <b>MeteorJS Chat</b>
 
-Um simples serviço de chat utilizando MeteorJS.
+Um simples serviço de chat utilizando MeteorJS.[a link](rchat.meteor.com/)Live demo.
 
 <b>Todo:</b>
 - Login atraves do Twitter, Github e FB.
