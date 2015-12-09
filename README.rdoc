@@ -4,6 +4,7 @@ Um simples serviço de chat utilizando MeteorJS.
 <b>Live demo</b>: http://rchat.meteor.com
 
 <b>Todo:</b>
+- Habilitar auto scroll.
 - Login atraves do Twitter, Github e FB.
 - Possibilidade de edição de mensagens.
 - Melhorar Layout.
